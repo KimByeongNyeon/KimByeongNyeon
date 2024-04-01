@@ -1,8 +1,11 @@
 ### 안녕하세요! web 개발자 희망하고 있는 김병년 입니다!! 사 해본 언어는 Java, Python, Dart 가 있고, flutter 간단하게 사용해본 경험이 있습니다!!👋
 
-🏃‍♂️ 사용 기술<br>
+🏃‍♂️ Skills!!<br>
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+###<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+###<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+###<img alt="Git" src ="https://img.shields.io/badge/Git-F95032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+###<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 
 <!--
