@@ -1,4 +1,4 @@
-### 안녕하세요! web 개발자 희망하고 있는 김병년 입니다!! 사 해본 언어는 Java, Python 이고, 주 사용 언어는 Java 입니다!! 또, 과거에 flutter 간단하게 사용해본 경험이 있습니다!!👋
+### Hello! I'm **Kim Byung-nyeon** who wants to develop the web!! I've tried Java and Python, and my main language is Java! Also, I've used flutter simply in the past👋
 
 🏃‍♂️ Skills!!<br>
 
