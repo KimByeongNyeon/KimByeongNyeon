@@ -1,4 +1,4 @@
-### Hello! I'm **Kim Byung-nyeon** who wants to develop the web!! I've tried Java and Python, and my main language is Java! Also, I've used flutter simply in the past👋
+### Hello! I'm ***Kim Byung-nyeon*** who wants to develop the web!! I've tried Java and Python, and my main language is Java! Also, I've used flutter simply in the past👋
 
 🏃‍♂️ Skills!!<br>
 
