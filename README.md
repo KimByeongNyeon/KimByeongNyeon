@@ -22,7 +22,7 @@
 
 <!--[![Solved.ac
 프로필]:(http//mazassumnida.wtf/api/v2/generate_badge?boj=qud5252)](https://solved.ac/qud5252) -->
-<a href="https://solved.ac/profile/qud5252">
+<a href="https://solved.ac/qud5252">
   <img alt = "Bacjoon" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qud5252">
 </a>
 
