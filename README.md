@@ -20,6 +20,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimByeongNyeon)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qud5252@naver.com)](https://solved.ac/qud5252@naver.com/)
+
+
 ## ⚙ Link!!
 <a href="https://www.notion.so/SSAFY-c7ae38b52f514163b9d62da93f4ea0b5">
 <img alt="Notion" src="https://www.askedtech.com/api/kords/admin/product/image.jpg?id=31790" width="120px;" height="100px;">
