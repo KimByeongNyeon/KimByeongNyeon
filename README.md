@@ -20,9 +20,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimByeongNyeon)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qud5252)](https://solved.ac/qud5252)
-
+<!--[![Solved.ac
+프로필]:(http//mazassumnida.wtf/api/v2/generate_badge?boj=qud5252)](https://solved.ac/qud5252) -->
+<a href="https://solved.ac/profile/qud5252">
+  <img alt = "Bacjoon" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qud5252">
+</a>
 
 ## ⚙ Link!!
 <a href="https://www.notion.so/SSAFY-c7ae38b52f514163b9d62da93f4ea0b5">
