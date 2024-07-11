@@ -4,6 +4,8 @@
   </a>
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimByeongNyeon&fontSize=90)
+
 ### 안녕하세요! 프론트 엔드 개발자를 희망하는 김병년 입니다! 사용 기술은 Java, JS, HTML, CSS 이고 Python 공부중에 있으며 과거에 Flutter, Dart를 사용해 본 경험이 있습니다.👋
 
 
