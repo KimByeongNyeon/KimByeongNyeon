@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimByeongNyeon)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KimByeongNyeon's github activity graph](https://activity-graph.herokuapp.com/graph?username=KimByeongNyeon&theme=monokai)](https://github.com/KimByeongNyeon/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KimByeongNyeon&theme=monokai)](https://github.com/KimByeongNyeon/github-readme-activity-graph)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qud5252)](https://solved.ac/qud5252)
