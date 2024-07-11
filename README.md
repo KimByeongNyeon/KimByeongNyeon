@@ -20,7 +20,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimByeongNyeon)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KimByeongNyeon&theme=monokai)](https://github.com/KimByeongNyeon/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimByeongNyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qud5252)](https://solved.ac/qud5252)
