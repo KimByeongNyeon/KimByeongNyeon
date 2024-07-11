@@ -21,7 +21,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimByeongNyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필]:(http://mazassumnida.wtf/api/v2/generate_badge?boj=qud5252)](https://solved.ac/qud5252)]
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qud5252)](https://solved.ac/qud5252)]
 
 
 ## ⚙ Link!!
