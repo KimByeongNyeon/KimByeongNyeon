@@ -1,10 +1,11 @@
-### Hello! I'm ***Kim Byung-nyeon*** who wants to develop the web!! I've tried Java and Python, and my main language is Java! Also, I've used flutter simply in the past👋
-
 <div align="right">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHwan-dev&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
   </a>
 </div>
+
+### 안녕하세요! 프론트 엔드 개발자를 희망하는 김병년 입니다! 사용 기술은 Java, JS, HTML, CSS 이고 Python 공부중에 있으며 과거에 Flutter, Dart를 사용해 본 경험이 있습니다.👋
+
 
 ## 🏃‍♂️ Skills!!
 
