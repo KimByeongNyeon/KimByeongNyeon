@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://velog.io/@qud5252/posts">
-  <img alt="Velog" src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png">
+  <img alt="Velog" src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" width="100px;" height="100px;">
 </a>
 <!--
 **KimByeongNyeon/KimByeongNyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
