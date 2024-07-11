@@ -21,7 +21,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimByeongNyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimByeongNyeon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=000000&color=FFFFFF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimByeongNyeon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=000000&color=000000" width=94%/>
 </a>
 
 [![Solved.ac
