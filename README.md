@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/KimByeongNyeon">
-  <img alt="Github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img alt="Github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100px;" height="100px;">
 </a>
 <!--
 **KimByeongNyeon/KimByeongNyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
