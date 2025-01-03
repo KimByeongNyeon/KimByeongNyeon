@@ -26,7 +26,24 @@
 </div>
 
 ### **Back-End**
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div><img alt="Oracle" src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /></div>
+<div align="center">
+ <!-- First Row: Tech Stack Icons -->
+ <div style="display: flex; justify-content: center; gap: 10px;">
+   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+ </div>
+
+ <!-- Second Row: Oracle Badge -->
+ <div style="margin: 20px 0;">
+   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+ </div>
+
+ <!-- Third Row: Django Icon -->
+ <div>
+   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+ </div>
+</div>
 
 
 ## 🧑‍💻 Stats!!
