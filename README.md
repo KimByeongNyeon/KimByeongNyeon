@@ -65,6 +65,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qud5252)](https://solved.ac/qud5252)
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/qud5252" width="600" height="300"/></a>
+
 
 ## ⚙ Link!!
 <a href="https://www.notion.so/SSAFY-c7ae38b52f514163b9d62da93f4ea0b5">
