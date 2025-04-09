@@ -1,7 +1,11 @@
 <div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHwan-dev&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
-  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimByeongNyeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/KimByeongNyeon"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimByeongNyeon&fontSize=90)
