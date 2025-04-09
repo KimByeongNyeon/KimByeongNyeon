@@ -1,4 +1,5 @@
-<div align="right">
+
+<div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimByeongNyeon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/KimByeongNyeon"
@@ -7,13 +8,13 @@
 />
 </a>
 </div>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimByeongNyeon&fontSize=90)
 
 ### 능동적인 프론트 엔드 개발자가 되고싶은 김병년👋
 
 
 ## 🏃‍♂️ Skills!!
+
 ### Front-End
 <div align="center">
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
