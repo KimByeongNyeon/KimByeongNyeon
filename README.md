@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimByeongNyeon&fontSize=90)
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KimByeongNyeon&utm_content=farm">
@@ -8,8 +9,6 @@
 />
 </a>
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimByeongNyeon&fontSize=90)
 
 ### 능동적인 프론트 엔드 개발자가 되고싶은 김병년👋
 
