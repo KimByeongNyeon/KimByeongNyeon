@@ -8,6 +8,7 @@
 />
 </a>
 </div>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimByeongNyeon&fontSize=90)
 
 ### 능동적인 프론트 엔드 개발자가 되고싶은 김병년👋
