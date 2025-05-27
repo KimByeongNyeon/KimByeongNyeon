@@ -12,6 +12,14 @@
 
 ### 능동적인 프론트 엔드 개발자가 되고싶은 김병년👋
 
+## 🏆 Awards!!
+<div align="center">
+🥇 삼성 청년 SW 아카데미 (SSAFY)
+최종 프로젝트 기업연계 최우수상 🎊
+<img src="https://img.shields.io/badge/SSAFY-삼성_청년_SW_아카데미-1f5582?style=for-the-badge&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/Award-기업연계_최우수상-gold?style=for-the-badge&logo=trophy&logoColor=white"/>
+</div>
+
 
 ## 🏃‍♂️ Skills!!
 
