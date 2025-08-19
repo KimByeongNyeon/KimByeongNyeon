@@ -10,15 +10,22 @@
 </a>
 </div>
 
-### 능동적인 프론트 엔드 개발자가 되고싶은 김병년👋
+### 사용자가 먼저 되어 보는 프론트 엔드 개발자가 되고 싶은 김병년👋
 
-## 🏆 Awards!!
+## 🏆 Awards
+
 <div align="center">
-🥇 삼성 청년 SW 아카데미 (SSAFY)
-최종 프로젝트 기업연계 최우수상 🎊
-<img src="https://img.shields.io/badge/SSAFY-삼성_청년_SW_아카데미-1f5582?style=for-the-badge&logo=samsung&logoColor=white"/>
-<img src="https://img.shields.io/badge/Award-기업연계_최우수상-gold?style=for-the-badge&logo=trophy&logoColor=white"/>
+
+🎉 **삼성 청년 SW 아카데미 (SSAFY)**  
+💎 **최종 프로젝트 기업연계 최우수상**
+
+<br/>
+
+<img alt="SSAFY Badge" src="https://img.shields.io/badge/SSAFY-삼성_청년_SW_아카데미-1f5582?style=for-the-badge&logo=samsung&logoColor=white"/>  
+<img alt="Award Badge" src="https://img.shields.io/badge/Award-기업연계_최우수상-gold?style=for-the-badge&logo=trophy&logoColor=white"/>
+
 </div>
+
 
 
 ## 🏃‍♂️ Skills!!
@@ -82,9 +89,6 @@
 
 
 ## ⚙ Link!!
-<a href="https://www.notion.so/SSAFY-c7ae38b52f514163b9d62da93f4ea0b5">
-<img alt="Notion" src="https://www.askedtech.com/api/kords/admin/product/image.jpg?id=31790" width="120px;" height="100px;">
-</a>
 
 <a href="https://github.com/KimByeongNyeon">
   <img alt="Github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100px;" height="100px;">
