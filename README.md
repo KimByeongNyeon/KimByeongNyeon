@@ -32,38 +32,37 @@
 
 ### Front-End
 <div align="center">
- <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
- <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
- <br>
- <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white"/>
- <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
- <br>
- <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white"/>
+  <!-- 동적 뱃지: JS, TS, React -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <br/>
+
+  <!-- 정적 뱃지: 나머지 기술 -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white"/>
 </div>
 
-### **Back-End**
+
+
+### Back-End
 <div align="center">
- <!-- First Row: Tech Stack Icons -->
- <div style="display: flex; justify-content: center; gap: 10px;">
-   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
- </div>
+  <!-- 동적 뱃지: Git, Python, Java, Django -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <br/>
 
- <!-- Second Row: Oracle Badge -->
- <div style="margin: 20px 0;">
-   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
- </div>
-
- <!-- Third Row: Django Icon -->
- <div>
-   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
- </div>
+  <!-- 정적 뱃지: Oracle -->
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 </div>
+
 
 
 ## 🧑‍💻 Stats!!
